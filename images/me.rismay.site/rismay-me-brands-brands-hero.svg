@@ -1,0 +1,11 @@
+<svg viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Brands Hero">
+  <title>Brands Hero</title>
+  <rect width="1200" height="360" fill="#F2F2F7" />
+  
+  <rect x="200" y="100" width="800" height="20" rx="4" fill="#333" opacity="0.2" />
+  <rect x="200" y="300" width="800" height="20" rx="4" fill="#333" opacity="0.2" />
+  
+  <rect x="300" y="120" width="60" height="180" fill="#8E8E93" opacity="0.4" />
+  <rect x="570" y="120" width="60" height="180" fill="#AF52DE" opacity="0.8" /> <!-- Hero Pillar -->
+  <rect x="840" y="120" width="60" height="180" fill="#8E8E93" opacity="0.4" />
+</svg>

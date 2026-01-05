@@ -1,0 +1,16 @@
+<svg viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Rismay Hero">
+  <title>Rismay Hero</title>
+  <rect width="1200" height="360" fill="#F2F2F7" />
+  
+  <!-- Abstract Nodes and Connections -->
+  <circle cx="200" cy="180" r="40" fill="#AF52DE" opacity="0.2" />
+  <circle cx="600" cy="180" r="80" fill="#AF52DE" opacity="0.4" />
+  <circle cx="1000" cy="180" r="40" fill="#AF52DE" opacity="0.2" />
+  
+  <line x1="240" y1="180" x2="520" y2="180" stroke="#333" stroke-width="2" stroke-dasharray="8 8" opacity="0.3" />
+  <line x1="680" y1="180" x2="960" y2="180" stroke="#333" stroke-width="2" stroke-dasharray="8 8" opacity="0.3" />
+  
+  <!-- Central Focus (Derived from Curious Motif) -->
+  <circle cx="600" cy="180" r="100" fill="none" stroke="#333" stroke-width="12" opacity="0.5" />
+  <line x1="670" y1="250" x2="740" y2="320" stroke="#333" stroke-width="12" stroke-linecap="round" opacity="0.5" />
+</svg>

@@ -1,0 +1,17 @@
+<svg viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="About Me Hero">
+  <title>About Me Hero</title>
+  <rect width="1200" height="360" fill="#F2F2F7" />
+  
+  <!-- Left Stack -->
+  <rect x="200" y="140" width="160" height="30" rx="4" fill="#8E8E93" opacity="0.4" />
+  <rect x="200" y="180" width="160" height="30" rx="4" fill="#8E8E93" opacity="0.4" />
+  
+  <!-- Center Stack (Focus) -->
+  <rect x="500" y="100" width="200" height="40" rx="8" fill="#8E8E93" opacity="0.6" />
+  <rect x="500" y="150" width="200" height="40" rx="8" fill="#AF52DE" opacity="0.8" />
+  <rect x="500" y="200" width="200" height="40" rx="8" fill="#8E8E93" opacity="0.6" />
+  
+  <!-- Right Stack -->
+  <rect x="840" y="140" width="160" height="30" rx="4" fill="#8E8E93" opacity="0.4" />
+  <rect x="840" y="180" width="160" height="30" rx="4" fill="#8E8E93" opacity="0.4" />
+</svg>

@@ -1,0 +1,15 @@
+<svg viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Projects Hero">
+  <title>Projects Hero</title>
+  <rect width="1200" height="360" fill="#F2F2F7" />
+  
+  <rect x="100" y="200" width="80" height="100" rx="8" fill="#8E8E93" opacity="0.3" />
+  <rect x="200" y="160" width="80" height="140" rx="8" fill="#8E8E93" opacity="0.4" />
+  <rect x="300" y="120" width="80" height="180" rx="8" fill="#8E8E93" opacity="0.5" />
+  
+  <!-- Hero Bar -->
+  <rect x="560" y="60" width="80" height="240" rx="12" fill="#AF52DE" opacity="0.8" />
+  
+  <rect x="820" y="140" width="80" height="160" rx="8" fill="#8E8E93" opacity="0.5" />
+  <rect x="920" y="180" width="80" height="120" rx="8" fill="#8E8E93" opacity="0.4" />
+  <rect x="1020" y="220" width="80" height="80" rx="8" fill="#8E8E93" opacity="0.3" />
+</svg>
