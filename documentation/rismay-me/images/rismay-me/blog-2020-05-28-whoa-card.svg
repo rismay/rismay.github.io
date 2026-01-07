@@ -1,0 +1,6 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Whoa card">
+  <title>Whoa Card</title>
+  <rect width="512" height="512" fill="#F5F5F2" />
+  <polygon points="256,90 294,190 404,170 320,250 404,330 294,310 256,420 218,310 108,330 192,250 108,170 218,190" fill="#FF3B30" />
+  <circle cx="256" cy="250" r="48" fill="#FFD60A" />
+</svg>
