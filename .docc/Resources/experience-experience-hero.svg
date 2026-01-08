@@ -1,0 +1,11 @@
+<svg viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="About Me Hero">
+  <title>About Me Hero</title>
+  <rect width="1200" height="360" fill="#F5F5F2" />
+  <circle cx="260" cy="160" r="90" fill="#0A84FF" />
+  <rect x="170" y="220" width="180" height="110" fill="#FF3B30" />
+  <rect x="170" y="220" width="180" height="110" fill="none" stroke="#111111" stroke-width="16" />
+  <rect x="480" y="80" width="320" height="200" fill="none" stroke="#111111" stroke-width="18" />
+  <rect x="840" y="90" width="180" height="180" fill="#FFD60A" opacity="0.9">
+    <animate attributeName="x" values="840;820;840" dur="5s" repeatCount="indefinite" />
+  </rect>
+</svg>

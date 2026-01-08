@@ -1,0 +1,17 @@
+<svg viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF512F"/>
+      <stop offset="100%" stop-color="#DD2476"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Hex Container -->
+  <path transform="translate(60, 40) scale(1.5)" d="M30 0 L58 15 L58 45 L30 60 L2 45 L2 15 Z" fill="url(#grad1)"/>
+  
+  <!-- White W Cutout -->
+  <path transform="translate(60, 40) scale(1.5)" d="M18 20 L24 40 L30 25 L36 40 L42 20" fill="none" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Text -->
+  <text x="180" y="115" font-family="Avenir Next, sans-serif" font-weight="600" font-size="36" fill="#333">wrkstrm</text>
+</svg>

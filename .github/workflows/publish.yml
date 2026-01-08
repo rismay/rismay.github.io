@@ -21,10 +21,6 @@ jobs:
     steps:
       - name: Checkout source
         uses: actions/checkout@v4
-        with:
-          repository: rismay/todo3
-          path: source
-          token: ${{ secrets.TODO3_READ_TOKEN || github.token }}
 
       - name: Build DocC
         run: |
@@ -32,14 +28,10 @@ jobs:
           output_root="${GITHUB_WORKSPACE}/site"
           rm -rf "${output_root}"
           mkdir -p "${output_root}"
-          xcrun docc convert "source/docc/brand-identities.docc" \
+          xcrun docc convert ".docc" \
             --output-path "${output_root}" \
             --transform-for-static-hosting \
-            --hosting-base-path /
-          xcrun docc convert "source/docc/pages/public/rismay-me.docc" \
-            --output-path "${output_root}" \
-            --transform-for-static-hosting \
-            --hosting-base-path documentation/rismay-me
+            --hosting-base-path documentation
           touch "${output_root}/.nojekyll"
 
       - name: Upload Pages artifact

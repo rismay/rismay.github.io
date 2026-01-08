@@ -1,0 +1,11 @@
+<svg viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Blog Hero">
+  <title>Blog Hero</title>
+  <rect width="1200" height="360" fill="#F5F5F2" />
+  <rect x="140" y="60" width="420" height="240" rx="30" fill="#111111" opacity="0.08" />
+  <rect x="620" y="80" width="420" height="200" rx="30" fill="#111111" opacity="0.06" />
+  <rect x="180" y="110" width="340" height="26" rx="13" fill="#0A84FF" />
+  <rect x="180" y="160" width="280" height="20" rx="10" fill="#FF3B30" />
+  <rect x="180" y="200" width="220" height="20" rx="10" fill="#FFD60A" />
+  <rect x="660" y="130" width="320" height="24" rx="12" fill="#34C759" />
+  <rect x="660" y="180" width="260" height="18" rx="9" fill="#5E5CE6" />
+</svg>

@@ -1,0 +1,8 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Coding as Art card">
+  <title>Coding as Art Card</title>
+  <rect width="512" height="512" fill="#F5F5F2" />
+  <polygon points="60,340 160,240 460,540 360,640" fill="#FF2D55" opacity="0.85" />
+  <polygon points="-40,220 80,100 420,440 300,560" fill="#5E5CE6" opacity="0.7" />
+  <circle cx="140" cy="140" r="26" fill="#FF9F0A" />
+  <circle cx="360" cy="220" r="22" fill="#34C759" />
+</svg>
