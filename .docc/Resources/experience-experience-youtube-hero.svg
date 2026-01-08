@@ -1,8 +1,0 @@
-<svg viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="YouTube Experience hero">
-  <title>YouTube Experience Hero</title>
-  <rect width="1200" height="360" fill="#F5F5F2" />
-  <rect x="360" y="90" width="480" height="180" rx="50" fill="#FF3B30" />
-  <polygon points="560,130 560,230 690,180" fill="#F5F5F2" />
-  <rect x="200" y="70" width="180" height="20" rx="10" fill="#111111" opacity="0.12" />
-  <rect x="820" y="270" width="180" height="20" rx="10" fill="#111111" opacity="0.1" />
-</svg>

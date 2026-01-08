@@ -37,6 +37,16 @@ jobs:
             --output-path "${output_root}" \
             --transform-for-static-hosting \
             --hosting-base-path /
+          bundle_root="$(find "${output_root}/documentation" -mindepth 1 -maxdepth 1 -type d | head -n 1)"
+          if [ -z "${bundle_root}" ]; then
+            echo "No documentation bundle found under ${output_root}/documentation."
+            exit 1
+          fi
+          bundle_name="$(basename "${bundle_root}")"
+          rsync -a "${bundle_root}/" "${output_root}/"
+          find "${output_root}" -type f \( -name "*.html" -o -name "*.json" -o -name "*.js" -o -name "*.css" \) -print0 \
+            | xargs -0 -r sed -i "s|/documentation/${bundle_name}/|/|g"
+          rm -rf "${output_root}/documentation"
           touch "${output_root}/.nojekyll"
 
       - name: Upload Pages artifact
