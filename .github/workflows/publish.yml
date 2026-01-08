@@ -1,0 +1,59 @@
+name: Publish DocC
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: macos-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          repository: rismay/todo3
+          path: source
+          token: ${{ secrets.TODO3_READ_TOKEN || github.token }}
+
+      - name: Build DocC
+        run: |
+          set -euo pipefail
+          output_root="${GITHUB_WORKSPACE}/site"
+          rm -rf "${output_root}"
+          mkdir -p "${output_root}"
+          xcrun docc convert "source/docc/brand-identities.docc" \
+            --output-path "${output_root}" \
+            --transform-for-static-hosting \
+            --hosting-base-path /
+          xcrun docc convert "source/docc/pages/public/rismay-me.docc" \
+            --output-path "${output_root}" \
+            --transform-for-static-hosting \
+            --hosting-base-path documentation/rismay-me
+          touch "${output_root}/.nojekyll"
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
