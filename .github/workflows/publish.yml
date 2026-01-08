@@ -39,7 +39,7 @@ jobs:
           docc convert "github-pages.docc" \
             --output-path "${output_root}" \
             --transform-for-static-hosting \
-            --hosting-base-path /
+            --hosting-base-path /documentation
           touch "${output_root}/.nojekyll"
 
       - name: Upload Pages artifact
