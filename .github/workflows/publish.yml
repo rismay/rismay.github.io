@@ -39,7 +39,7 @@ jobs:
           docc convert "rismay.docc" \
             --output-path "${output_root}" \
             --transform-for-static-hosting \
-            --hosting-base-path /documentation/rismay
+            --hosting-base-path /
           touch "${output_root}/.nojekyll"
 
       - name: Upload Pages artifact
