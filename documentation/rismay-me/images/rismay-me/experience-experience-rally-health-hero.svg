@@ -1,9 +1,0 @@
-<svg viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Rally Health Experience hero">
-  <title>Rally Health Experience Hero</title>
-  <rect width="1200" height="360" fill="#F5F5F2" />
-  <circle cx="600" cy="170" r="120" fill="#34C759" />
-  <rect x="570" y="90" width="60" height="160" rx="14" fill="#F5F5F2" />
-  <rect x="520" y="140" width="160" height="60" rx="14" fill="#F5F5F2" />
-  <rect x="360" y="290" width="200" height="20" rx="10" fill="#0A84FF" />
-  <rect x="640" y="290" width="200" height="20" rx="10" fill="#00C7BE" />
-</svg>
