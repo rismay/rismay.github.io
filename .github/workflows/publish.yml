@@ -33,7 +33,7 @@ jobs:
           output_root="${GITHUB_WORKSPACE}/_site"
           rm -rf "${output_root}"
           mkdir -p "${output_root}"
-          docc convert ".docc" \
+          docc convert "github-pages.docc" \
             --output-path "${output_root}" \
             --transform-for-static-hosting \
             --hosting-base-path /
