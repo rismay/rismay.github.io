@@ -48,7 +48,7 @@ jobs:
           bundle_name="$(basename "${bundle_root}")"
           rsync -a "${bundle_root}/" "${output_root}/"
           find "${output_root}" -type f \( -name "*.html" -o -name "*.json" -o -name "*.js" -o -name "*.css" \) -print0 \
-            | xargs -0 -r sed -i "s|/documentation/${bundle_name}/|/|g"
+            | xargs -0 -r sed -i "s|/documentation/${bundle_name}/|/|g; s|/documentation/${bundle_name}|/|g"
           rm -rf "${output_root}/documentation"
           touch "${output_root}/.nojekyll"
 
