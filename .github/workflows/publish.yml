@@ -17,18 +17,23 @@ concurrency:
 
 jobs:
   build:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout source
         uses: actions/checkout@v4
 
+      - name: Set up Swift
+        uses: swift-actions/setup-swift@v2
+        with:
+          swift-version: '6.1'
+
       - name: Build DocC
         run: |
           set -euo pipefail
-          output_root="${GITHUB_WORKSPACE}/site"
+          output_root="${GITHUB_WORKSPACE}/_site"
           rm -rf "${output_root}"
           mkdir -p "${output_root}"
-          xcrun docc convert ".docc" \
+          docc convert ".docc" \
             --output-path "${output_root}" \
             --transform-for-static-hosting \
             --hosting-base-path /
@@ -37,7 +42,7 @@ jobs:
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: site
+          path: _site
 
   deploy:
     needs: build
