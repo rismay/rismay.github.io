@@ -36,10 +36,10 @@ jobs:
           output_root="${GITHUB_WORKSPACE}/_site"
           rm -rf "${output_root}"
           mkdir -p "${output_root}"
-          docc convert "github-pages.docc" \
+          docc convert "rismay.docc" \
             --output-path "${output_root}" \
             --transform-for-static-hosting \
-            --hosting-base-path /documentation
+            --hosting-base-path /documentation/rismay
           touch "${output_root}/.nojekyll"
 
       - name: Upload Pages artifact
