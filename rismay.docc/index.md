@@ -4,6 +4,7 @@
   @PageKind(article)
   @PageColor(purple)
   @TechnologyRoot
+  @DisplayName("Rismay")
   @TitleHeading("Product Engineer & Design-minded Builder")
   @PageImage(purpose: icon, source: "rismay-me-icon", alt: "Rismay Icon")
   @PageImage(purpose: card, source: "rismay-me-card", alt: "Rismay Card")
