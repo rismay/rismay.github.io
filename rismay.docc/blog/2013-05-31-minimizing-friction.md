@@ -7,7 +7,6 @@
   @PageColor(blue)
 }
 
-@Image(source: "doc-2013-05-31-minimizing-friction-hero", alt: "Minimizing Friction hero")
 
 @Image(source: "blog-2013-05-31-minimizing-friction-hero", alt: "Minimizing Friction hero")
 

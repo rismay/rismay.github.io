@@ -7,7 +7,6 @@
   @PageColor(blue)
 }
 
-@Image(source: "doc-2013-09-04-coding-as-art-hero", alt: "Coding as Art hero")
 
 @Image(source: "blog-2013-09-04-coding-as-art-hero", alt: "Coding as Art hero")
 

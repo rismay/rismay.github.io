@@ -7,7 +7,6 @@
   @PageColor(blue)
 }
 
-@Image(source: "doc-2023-10-30-swift-type-inference-performance-hero", alt: "Swift Type Inference hero")
 
 @Image(source: "blog-2023-10-30-swift-type-inference-performance-hero", alt: "Swift Type Inference hero")
 

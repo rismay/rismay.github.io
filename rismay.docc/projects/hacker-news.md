@@ -12,7 +12,6 @@
   @AutomaticSeeAlso(disabled)
 }
 
-@Image(source: "doc-hacker-news-hero", alt: "Hacker News hero")
 
 @Image(source: "projects-hacker-news-hero", alt: "Hacker News Hero")
 

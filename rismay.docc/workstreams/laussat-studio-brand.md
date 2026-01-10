@@ -20,7 +20,6 @@
   @AutomaticSeeAlso(disabled)
 }
 
-@Image(source: "doc-laussat-studio-brand-hero", alt: "Laussat Studio hero")
 
 The studio workstream for collaborative apps, media, and creative production.
 

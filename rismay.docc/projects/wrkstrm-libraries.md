@@ -20,7 +20,6 @@
   @AutomaticSeeAlso(disabled)
 }
 
-@Image(source: "doc-wrkstrm-libraries-hero", alt: "Wrkstrm Libraries hero")
 
 @Image(source: "projects-wrkstrm-libraries-hero", alt: "Wrkstrm Libraries Hero")
 

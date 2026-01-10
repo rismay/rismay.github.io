@@ -7,7 +7,6 @@
   @PageColor(blue)
 }
 
-@Image(source: "doc-2020-06-01-getting-rismay-me-working-hero", alt: "Getting rismay me Working hero")
 
 @Image(source: "blog-2020-06-01-getting-rismay-me-working-hero", alt: "Getting rismay.me Working hero")
 

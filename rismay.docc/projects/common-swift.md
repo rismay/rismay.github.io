@@ -20,7 +20,6 @@
   @AutomaticSeeAlso(disabled)
 }
 
-@Image(source: "doc-common-swift-hero", alt: "Common Swift hero")
 
 @Image(source: "projects-common-swift-hero", alt: "Common Swift Hero")
 

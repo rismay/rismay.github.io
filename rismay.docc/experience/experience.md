@@ -13,7 +13,6 @@
   @AutomaticSeeAlso(disabled)
 }
 
-@Image(source: "doc-experience-hero", alt: "Experience hero")
 
 @Image(source: "experience-experience-hero", alt: "Experience Hero")
 

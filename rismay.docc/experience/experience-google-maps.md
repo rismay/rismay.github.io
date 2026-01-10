@@ -12,7 +12,6 @@
   @AutomaticSeeAlso(disabled)
 }
 
-@Image(source: "doc-experience-google-maps-hero", alt: "Google Maps hero")
 
 @Image(source: "experience-experience-google-maps-hero", alt: "Google Maps Hero")
 

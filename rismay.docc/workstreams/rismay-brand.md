@@ -12,7 +12,6 @@
   @AutomaticSeeAlso(disabled)
 }
 
-@Image(source: "doc-rismay-brand-hero", alt: "Rismay hero")
 
 The personal workstream for Cristian Monterroza (Rismay).
 

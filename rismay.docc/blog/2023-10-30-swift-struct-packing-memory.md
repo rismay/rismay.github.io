@@ -7,7 +7,6 @@
   @PageColor(blue)
 }
 
-@Image(source: "doc-2023-10-30-swift-struct-packing-memory-hero", alt: "Swift Struct Packing hero")
 
 @Image(source: "blog-2023-10-30-swift-struct-packing-memory-hero", alt: "Swift Struct Packing hero")
 

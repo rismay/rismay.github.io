@@ -12,7 +12,6 @@
   @AutomaticSeeAlso(disabled)
 }
 
-@Image(source: "doc-experience-youtube-hero", alt: "YouTube hero")
 
 @Image(source: "experience-experience-youtube-hero", alt: "YouTube Hero")
 

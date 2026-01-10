@@ -12,7 +12,6 @@
   @AutomaticSeeAlso(disabled)
 }
 
-@Image(source: "doc-clia-hero", alt: "CLIA hero")
 
 @Image(source: "projects-clia-hero", alt: "CLIA Hero")
 

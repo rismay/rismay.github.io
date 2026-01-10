@@ -13,7 +13,6 @@
   @AutomaticSeeAlso(disabled)
 }
 
-@Image(source: "doc-blog-hero", alt: "Blog hero")
 
 Thoughts, tutorials, and retrospective on engineering.
 

@@ -7,7 +7,6 @@
   @PageColor(blue)
 }
 
-@Image(source: "doc-2020-05-24-daily-entry-hero", alt: "Daily Entry hero")
 
 @Image(source: "blog-2020-05-24-daily-entry-hero", alt: "Daily Entry hero")
 

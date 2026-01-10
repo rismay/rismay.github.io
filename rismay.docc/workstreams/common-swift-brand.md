@@ -20,7 +20,6 @@
   @AutomaticSeeAlso(disabled)
 }
 
-@Image(source: "doc-common-swift-brand-hero", alt: "Common Swift hero")
 
 The open-source workstream for shared foundations and adapters.
 

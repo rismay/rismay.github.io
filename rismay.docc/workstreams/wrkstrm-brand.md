@@ -12,7 +12,6 @@
   @AutomaticSeeAlso(disabled)
 }
 
-@Image(source: "doc-wrkstrm-brand-hero", alt: "Wrkstrm hero")
 
 The engineering workstream for developer tools and libraries.
 

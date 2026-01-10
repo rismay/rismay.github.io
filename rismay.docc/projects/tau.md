@@ -12,7 +12,6 @@
   @AutomaticSeeAlso(disabled)
 }
 
-@Image(source: "doc-tau-hero", alt: "Tau hero")
 
 @Image(source: "projects-tau-hero", alt: "Tau Hero")
 

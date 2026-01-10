@@ -7,7 +7,6 @@
   @PageColor(blue)
 }
 
-@Image(source: "doc-2013-08-07-core-location-evolution-hero", alt: "Core Location hero")
 
 @Image(source: "blog-2013-08-07-core-location-evolution-hero", alt: "Core Location hero")
 

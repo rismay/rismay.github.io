@@ -7,7 +7,6 @@
   @PageColor(blue)
 }
 
-@Image(source: "doc-2014-09-29-wsmlogger-multithreaded-debugging-hero", alt: "WSMLogger hero")
 
 @Image(source: "blog-2014-09-29-wsmlogger-multithreaded-debugging-hero", alt: "WSMLogger hero")
 

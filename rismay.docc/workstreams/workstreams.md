@@ -13,7 +13,6 @@
   @AutomaticSeeAlso(disabled)
 }
 
-@Image(source: "doc-workstreams-hero", alt: "Workstreams hero")
 
 The master registry for workstreams across Rismay, Laussat Studio, and Wrkstrm.
 

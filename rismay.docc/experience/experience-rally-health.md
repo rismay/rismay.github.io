@@ -12,7 +12,6 @@
   @AutomaticSeeAlso(disabled)
 }
 
-@Image(source: "doc-experience-rally-health-hero", alt: "Rally Health hero")
 
 @Image(source: "experience-experience-rally-health-hero", alt: "Rally Health Hero")
 
