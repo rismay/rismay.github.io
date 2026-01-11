@@ -1,4 +1,4 @@
-# Getting rismay.me Working
+# Getting Rismay.me Working
 
 @Metadata {
   @PageImage(purpose: icon, source: "blog-2020-06-01-getting-rismay-me-working-icon", alt: "Getting rismay.me Working icon")

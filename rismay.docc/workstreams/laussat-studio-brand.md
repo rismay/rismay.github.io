@@ -25,7 +25,7 @@ The studio workstream for collaborative apps, media, and creative production.
 
 @Image(source: "workstreams-laussat-studio-brand-hero", alt: "Studio Laussat Hero")
 
-## Core workstream
+## Core Workstream
 
 - **Name:** Studio Laussat
 - **Reverse-DNS Root:** `studio.laussat`

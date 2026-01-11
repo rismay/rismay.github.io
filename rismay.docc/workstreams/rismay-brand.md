@@ -16,7 +16,7 @@
 
 @Image(source: "workstreams-rismay-brand-hero", alt: "Rismay Hero")
 
-## Core workstream
+## Core Workstream
 
 - **Name:** Rismay
 - **Handle:** `@rismay`

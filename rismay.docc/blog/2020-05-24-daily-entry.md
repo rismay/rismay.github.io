@@ -24,6 +24,6 @@ Tags: Daily
 
 1. 
 
-## Action items
+## Action Items
 
 - [ ]

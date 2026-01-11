@@ -1,4 +1,4 @@
-# Coding as Art
+# Coding As Art
 
 @Metadata {
   @PageImage(purpose: icon, source: "blog-2013-09-04-coding-as-art-icon", alt: "Coding as Art icon")

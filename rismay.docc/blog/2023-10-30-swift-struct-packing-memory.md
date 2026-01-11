@@ -94,7 +94,7 @@ struct SensorData {
 }
 ```
 
-### 3. The `@packed` Attribute
+### 3. The `@Packed` Attribute
 
 Swift throws a wildcard into the mix with the `@packed` attribute. Apply it to a struct if you want to minimize padding, akin to C's packed attribute. But tread carefully, as it might impact performance on certain systems:
 
@@ -109,7 +109,7 @@ struct MyStruct {
 
 Stay cautious with reference types like classes within a struct. They bring along some extra memory overhead, another lesson inherited from C. Remember, structs are all about values, so adding reference types can bulk up their size.
 
-## Determining the size of Swift structs
+## Determining the Size of Swift Structs
 
 In Swift, you can determine the size of a struct or any data type using the `MemoryLayout` struct and its `size` property. `MemoryLayout` is a generic struct that provides information about the memory layout and size of Swift types. Here's how you can use it to find the size of a struct:
 

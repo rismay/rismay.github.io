@@ -30,13 +30,13 @@ in the right place.
 Workstreams are how I organize the work: each stream is a living set of products, tools, writing,
 and visual systems that reinforce a shared mission.
 
-## What I do
+## What I Do
 
 - **Developer experience:** design and ship CLIs, platforms, and workflows that reduce friction.
 - **Product systems:** craft reusable foundations for fast, consistent product delivery.
 - **Creative tooling:** bridge engineering and design with tools that make good taste scalable.
 
-## Selected work
+## Selected Work
 
 - <doc:projects> for highlighted products, systems, and experiments.
 - <doc:workstreams> for workstreams and identity systems across the portfolio.

@@ -25,7 +25,7 @@ The open-source workstream for shared foundations and adapters.
 
 @Image(source: "workstreams-common-swift-brand-hero", alt: "Common Swift Hero")
 
-## Core workstream
+## Core Workstream
 
 - **Name:** Common Swift (formerly SwiftShell/WrkstrmShell)
 - **Reverse-DNS Root:** `app.wrkstrm` (shared infrastructure)

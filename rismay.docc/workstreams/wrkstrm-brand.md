@@ -17,7 +17,7 @@ The engineering workstream for developer tools and libraries.
 
 @Image(source: "workstreams-wrkstrm-brand-hero", alt: "Wrkstrm Hero")
 
-## Core workstream
+## Core Workstream
 
 - **Name:** Wrkstrm
 - **Reverse-DNS Root:** `app.wrkstrm` (for tools/infrastructure)
