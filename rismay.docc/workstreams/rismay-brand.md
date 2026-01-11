@@ -2,7 +2,7 @@
 
 @Metadata {
   @PageKind(article)
-  @PageColor(purple)
+  @PageColor(blue)
   @TitleHeading("Personal Workstream")
   @PageImage(purpose: icon, source: "workstreams-rismay-brand-icon", alt: "Rismay Icon")
   @PageImage(purpose: card, source: "workstreams-rismay-brand-card", alt: "Rismay Card")
@@ -13,7 +13,6 @@
 }
 
 
-The personal workstream for Cristian Monterroza (Rismay).
 
 @Image(source: "workstreams-rismay-brand-hero", alt: "Rismay Hero")
 
@@ -22,13 +21,13 @@ The personal workstream for Cristian Monterroza (Rismay).
 - **Name:** Rismay
 - **Handle:** `@rismay`
 - **Reverse-DNS Root:** `me.rismay`
-- **Archetype:** The Operator / The Architect
+- **Archetype:** The Sketcher / The Designer
 
 ## Visuals
 
-- **Primary Color:** Purple
-- **Motif:** Clean lines, terminal aesthetics, high-contrast dark modes.
+- **Primary Color:** Sketch blues and graphite neutrals
+- **Motif:** Pencil-like strokes, animated line work, sketchbook framing.
 
 ## Usage
 
-Used for personal projects, portfolio work, and direct authorship.
+Used for the Rismay blog and personal work in-progress brand explorations.
