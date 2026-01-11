@@ -19,6 +19,12 @@ and shared libraries.
 - **Wrkstrm libraries:** Toolkit for CLI platforms, logging, and system utilities.
 - **Common Swift:** Shared foundations like CommonShell and CommonProcess.
 
+## What to expect
+
+- Product thinking paired with strong engineering fundamentals.
+- Systems that scale across multiple workstreams.
+- Clear, readable tooling built for humans first.
+
 ## Topics
 
 ### Apps
@@ -34,9 +40,3 @@ and shared libraries.
 
 - <doc:wrkstrm-libraries>
 - <doc:common-swift>
-
-## What to expect
-
-- Product thinking paired with strong engineering fundamentals.
-- Systems that scale across multiple workstreams.
-- Clear, readable tooling built for humans first.
