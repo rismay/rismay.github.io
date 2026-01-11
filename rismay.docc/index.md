@@ -1,4 +1,4 @@
-# Rismay
+# rismay
 
 @Metadata {
   @PageKind(article)
