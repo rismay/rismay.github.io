@@ -5,15 +5,16 @@
   @PageColor(purple)
   @TechnologyRoot
   @TitleHeading("Product Engineer & Design-minded Builder")
-  @PageImage(purpose: icon, source: "rismay-me-icon", alt: "Rismay Icon")
-  @PageImage(purpose: card, source: "rismay-me-card", alt: "Rismay Card")
-  @PageImage(purpose: hero, source: "rismay-me-hero", alt: "Rismay Hero")
+  @PageImage(purpose: icon, source: "index-icon", alt: "Rismay Icon")
+  @PageImage(purpose: card, source: "index-card", alt: "Rismay Card")
 }
 
 @Options {
   @TopicsVisualStyle(detailedGrid)
   @AutomaticSeeAlso(disabled)
 }
+
+@Image(source: "index-hero", alt: "Rismay Hero")
 
 An engineer and designer building developer experience, creative systems, and human-centered tools.
 
