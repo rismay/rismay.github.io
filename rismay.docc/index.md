@@ -4,10 +4,10 @@
   @PageKind(article)
   @PageColor(purple)
   @TechnologyRoot
-  @DisplayName("Rismay")
   @TitleHeading("Product Engineer & Design-minded Builder")
   @PageImage(purpose: icon, source: "rismay-me-icon", alt: "Rismay Icon")
   @PageImage(purpose: card, source: "rismay-me-card", alt: "Rismay Card")
+  @PageImage(purpose: hero, source: "rismay-me-hero", alt: "Rismay Hero")
 }
 
 @Options {
@@ -16,8 +16,6 @@
 }
 
 An engineer and designer building developer experience, creative systems, and human-centered tools.
-
-@Image(source: "rismay-me-hero", alt: "Rismay Hero")
 
 ## Overview
 
