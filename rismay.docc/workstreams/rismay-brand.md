@@ -25,8 +25,9 @@
 
 ## Visuals
 
-- **Primary Color:** Sketch blues and graphite neutrals
-- **Motif:** Pencil-like strokes, animated line work, sketchbook framing.
+- **Primary Color:** Copic minimal sets with graphite-first neutrals
+- **Motif:** Pencil-like strokes, animated line work, sketchbook framing
+- **Texture:** Paper grain and hand-drawn construction lines
 
 ## Usage
 
