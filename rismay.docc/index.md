@@ -38,8 +38,8 @@ and visual systems that reinforce a shared mission.
 
 ## Selected Work
 
+- <doc:apps> for shipped applications like YouTube and Google Maps.
 - <doc:projects> for highlighted products, systems, and experiments.
-- <doc:workstreams> for workstreams and identity systems across the portfolio.
 
 ## Writing
 
@@ -65,6 +65,6 @@ Open to focused consulting, product design engineering, and tooling partnerships
 
 ### Artifacts
 
+- <doc:apps>
 - <doc:blog>
 - <doc:projects>
-- <doc:workstreams>
