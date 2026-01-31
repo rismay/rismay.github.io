@@ -1,6 +1,6 @@
 <svg viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Google Maps Experience hero">
   <title>Google Maps Experience Hero</title>
-  <rect width="1200" height="360" fill="#F5F5F2" />
+  
   <rect x="260" y="70" width="680" height="220" rx="50" fill="#E8EEF5" />
   <path d="M600 80 C500 80 420 140 420 210 C420 300 600 340 600 340 C600 340 780 300 780 210 C780 140 700 80 600 80 Z" fill="#0A84FF" />
   <circle cx="600" cy="210" r="46" fill="#F5F5F2" />

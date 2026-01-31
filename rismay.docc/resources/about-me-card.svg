@@ -1,6 +1,6 @@
 <svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="About Me Card">
   <title>About Me Card</title>
-  <rect width="512" height="512" fill="#F5F5F2" />
+  
   <circle cx="256" cy="170" r="70" fill="#0A84FF" />
   <rect x="144" y="260" width="224" height="140" fill="#FF3B30" />
   <rect x="144" y="260" width="224" height="140" fill="none" stroke="#111111" stroke-width="18" />

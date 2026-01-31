@@ -5,7 +5,7 @@
       <stop offset="1" stop-color="#F0A44A"/>
     </linearGradient>
   </defs>
-  <rect width="1024" height="576" rx="64" fill="url(#wsCardBg)"/>
+  
   <path d="M204 196 L520 160 L812 276 L636 416 L284 396 Z" fill="none" stroke="#FFF1DD" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
   <circle cx="204" cy="196" r="22" fill="#FFF1DD"/>
   <circle cx="520" cy="160" r="22" fill="#FFF1DD"/>

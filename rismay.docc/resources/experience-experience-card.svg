@@ -9,7 +9,7 @@
       <stop offset="1" stop-color="#CFEAFF"/>
     </linearGradient>
   </defs>
-  <rect width="1024" height="576" rx="64" fill="url(#expCardBg)"/>
+  
   <rect x="96" y="120" width="832" height="336" rx="32" fill="url(#expCardPanel)"/>
   <circle cx="192" cy="228" r="36" fill="#0E3A5B" opacity="0.9"/>
   <rect x="256" y="206" width="360" height="24" rx="12" fill="#0E3A5B" opacity="0.9"/>
