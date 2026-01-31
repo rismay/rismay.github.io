@@ -36,11 +36,11 @@ jobs:
           output_root="${GITHUB_WORKSPACE}/_site"
           rm -rf "${output_root}"
           mkdir -p "${output_root}"
-          docc convert "rismay.docc" \
+          docc convert "index.docc" \
             --output-path "${output_root}" \
             --transform-for-static-hosting \
             --hosting-base-path /
-          echo '<!DOCTYPE html><html><head><meta http-equiv="refresh" content="0; url=/documentation/rismay"></head></html>' > "${output_root}/index.html"
+          echo '<!DOCTYPE html><html><head><meta http-equiv="refresh" content="0; url=/documentation/index"></head></html>' > "${output_root}/index.html"
           cp "docc-overrides.css" "${output_root}/css/docc-overrides.css"
           find "${output_root}" -name index.html -print0 | xargs -0 perl -0pi -e 'if ($_ !~ /docc-overrides\\.css/) { s#</head>#<link rel="stylesheet" href="/css/docc-overrides.css"></head># }'
           touch "${output_root}/.nojekyll"
@@ -58,11 +58,11 @@ jobs:
     runs-on: ${{ matrix.os }}
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}documentation/rismay
+      url: ${{ steps.deployment.outputs.page_url }}documentation/index
     steps:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
 
       - name: Print Deployed URL
-        run: echo "Deployed to ${{ steps.deployment.outputs.page_url }}documentation/rismay"
+        run: echo "Deployed to ${{ steps.deployment.outputs.page_url }}documentation/index"
