@@ -20,12 +20,15 @@ An engineer and designer building developer experience, creative systems, and hu
 
 ## Overview
 
-I build calm, opinionated software that helps teams move faster without losing craft. My work blends
-product engineering, design systems, and automation, with a focus on tools that make complex work
-feel simple.
+I build calm, opinionated software that helps teams move faster without losing craft — with taste.
+My work blends product engineering, design systems, and automation, with a focus on tools that make
+complex work feel simple.
 
 If you are looking for a thoughtful builder who cares about polish, clarity, and velocity, you are
 in the right place.
+
+There’s also a quiet side to the work: some things stay off-stage until they’re ready. If you’re
+curious, ask.
 
 Workstreams are how I organize the work: each stream is a living set of products, tools, writing,
 and visual systems that reinforce a shared mission.
