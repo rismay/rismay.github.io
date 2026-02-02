@@ -1,18 +1,18 @@
-# Common Swift
+# Swift Universal
 
 @Metadata {
   @PageKind(article)
   @PageColor(orange)
-  @TitleHeading("Common Libraries")
+  @TitleHeading("Swift Universal Foundations")
   @PageImage(
     purpose: icon,
-    source: "projects-common-swift-icon",
-    alt: "Common Swift Icon"
+    source: "projects-swift-universal-icon",
+    alt: "Swift Universal Icon"
   )
   @PageImage(
     purpose: card,
-    source: "projects-common-swift-card",
-    alt: "Common Swift Card"
+    source: "projects-swift-universal-card",
+    alt: "Swift Universal Card"
   )
 }
 
@@ -21,11 +21,11 @@
 }
 
 
-@Image(source: "projects-common-swift-hero", alt: "Common Swift Hero")
+@Image(source: "projects-swift-universal-hero", alt: "Swift Universal Hero")
 
 ## Synopsis
 
-Common Swift is a set of shared foundations like CommonShell and CommonProcess that make
+Swift Universal is a set of shared foundations like CommonShell and CommonProcess that make
 subprocess execution predictable, typed, and portable across tooling.
 
 ## Status

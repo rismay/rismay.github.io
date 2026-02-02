@@ -17,7 +17,7 @@ and shared libraries.
 - **Tau:** Mac status bar app, now expanding into options trading workflows.
 - **CLIA:** Agent platform + CLI for human‑centered automation and operator workflows.
 - **Wrkstrm libraries:** Toolkit for CLI platforms, logging, and system utilities.
-- **Common Swift:** Shared foundations like CommonShell and CommonProcess.
+- **Swift Universal:** Shared foundations like CommonShell and CommonProcess.
 
 ## What to Expect
 
@@ -39,4 +39,4 @@ and shared libraries.
 ### Libraries
 
 - <doc:wrkstrm-libraries>
-- <doc:common-swift>
+- <doc:swift-universal>
