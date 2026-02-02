@@ -14,7 +14,7 @@ and shared libraries.
 ## Flagship Projects
 
 - **Hacker News:** Focused reader app that makes story triage fast and calm.
-- **Tau:** Mac status bar app, now expanding into options trading workflows.
+- **Tau:** Mac status bar app, now expanding into new workflows.
 - **CLIA:** Agent platform + CLI for human‑centered automation and operator workflows.
 - **Wrkstrm libraries:** Toolkit for CLI platforms, logging, and system utilities.
 - **Swift Universal:** Shared foundations like CommonShell and CommonProcess.
