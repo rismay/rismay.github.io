@@ -56,6 +56,7 @@ Open to focused consulting, product design engineering, and tooling partnerships
 
 ## Contact
 
+- **Website:** [rismay.me](https://rismay.me)
 - **GitHub:** [rismay](https://github.com/rismay)
 - **LinkedIn:** [cristianmonterroza](https://linkedin.com/in/cristianmonterroza)
 
